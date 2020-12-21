@@ -155,3 +155,7 @@ padding: 10px 15px;
 	-o-transform: scale(1.1);
 	transform: scale(1.1)
 	}
+
+	.feature_list ul li:hover a .icon i{
+		color: #fff;
+	}
